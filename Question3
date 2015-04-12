@@ -1,1 +1,2 @@
 Explain what a branch is, in your own words.
+A branch is a separate working area from the master branch where you can work on specific issues or create new things that will not immpact on the master branch until you decide to merge them. Good for when working in teams o separate issues. 
