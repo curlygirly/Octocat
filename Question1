@@ -1,1 +1,3 @@
-Explain what git clone does, in your own words.
+Git Clone is the command that literally clones or creates an exact copy and working version of a repository.
+Whilst a copy of an existing repository it has its own files and works independently from the parent it was copied from.
+Usage is git clone <repo>
